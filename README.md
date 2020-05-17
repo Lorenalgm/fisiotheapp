@@ -25,7 +25,8 @@ DevChallenge allow you to improve your skills!
 
 # Challenge
 Your task is to build a react native app with the design avaible inside the '/design' folder
-
+<img src="https://trello-attachments.s3.amazonaws.com/590fa7f5a8ab015d0cf88052/590fa896d2d25e50583de620/919f6e844be42836a6060d7452b08e56/start_motorola-motog-portrait.png" width="380" height="380">
+<img src="https://trello-attachments.s3.amazonaws.com/590fa7f5a8ab015d0cf88052/590fa896d2d25e50583de620/6e2639e419b10054e143712e1a5d51d1/exercise_motorola-motog-portrait.png" width="380" height="380">
 # Techs: 
 React Native (this template uses RN, but you can use the tech you prefer)<br>
 CSS
@@ -57,6 +58,6 @@ Lighter purple: #9E2D8C
 # Share!
 Initialize your project with this template in your github as a public repository<br>
 Capture a screenshot, gif or video and share your result in Linkedin<br>
-Send me a feedback in linkedin!<br>
+Send me a feedback in  <a href="https://www.linkedin.com/in/lorenagmontes/">Linkedin</a>!<br>
 
-Designed and created by Lorena :)
+Designed and created by  <a href="https://github.com/Lorenalgm">Lorena</a> :)
